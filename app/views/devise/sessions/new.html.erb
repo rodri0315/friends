@@ -1,0 +1,40 @@
+<div class="flex input-container">
+  <div class="flex-grow bg-people"></div>
+  <div class="flex-grow Login flex flex-column align-center">
+    <h1 class="SignIn"><%= t('.sign_in_title') %></h1>
+    <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+
+    <div class="Field">
+      <div>
+        <%= f.label :email %>
+      </div>
+      <%= f.email_field :email, autofocus: true, autocomplete: "email" %>
+    </div>
+
+    <div class="Field mt2">
+      <div>
+        <%= f.label :password %>
+      </div>
+      <%= f.password_field :password, autocomplete: "current-password" %>
+    </div>
+
+    <% if devise_mapping.rememberable? %>
+    <div class="Field">
+      <%= f.check_box :remember_me %>
+      <%= f.label :remember_me %>
+    </div>
+    <% end %>
+
+    <div class="actions">
+      <%= f.submit t('.sign_in'), class: 'width100 mt5 Button bc-green white uppercase' %>
+    </div>
+    <% end %>
+    <hr class="width80 mt5 hr-line">
+
+    <div class="gray mt4">
+      <h4 class="text-center pl2 pr2"><%= t('.Sign_in_register') %></h4>
+    </div>
+    <%= render "devise/shared/links" %>
+
+  </div>
+</div>

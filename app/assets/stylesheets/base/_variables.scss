@@ -1,0 +1,53 @@
+$unit: 8px;
+
+$xs: 32rem;
+$sm: 40rem;
+$md: 48rem;
+$lg: 64rem;
+$xl: 80rem;
+
+$breakpoint-xs: '(min-width: #{$xs})' !default;
+$breakpoint-sm: '(min-width: #{$sm})' !default;
+$breakpoint-md: '(min-width: #{$md})' !default;
+$breakpoint-lg: '(min-width: #{$lg})' !default;
+$breakpoint-xl: '(min-width: #{$xl})' !default;
+
+$thin:       200;
+$light:      300;
+$normal:     400;
+$semibold:   600;
+$bold:       700;
+$ultrabold:  900;
+
+$h1: 2rem;
+$h2: 1.5rem;
+$h3: 1.17rem;
+$h4: 1rem;
+$h5: 0.88rem;
+$h6: 0.67rem;
+
+$white: #f9f9fa;
+$blue:  #3A59A1;
+$red:   #d2202f;
+$green: #62BB47;
+$gray:  #888888;
+$black: #000;
+$purple: #9E429B;
+
+$colors: (
+  white:         $white,
+  blue:          $blue,
+  red:           $red,
+  green:         $green,
+  gray:          $gray,
+  black:         $black,
+  purple:        $purple
+);
+
+$sizes: (
+  xs: $xs,
+  sm: $sm,
+  md: $md,
+  lg: $lg,
+  xl: $xl
+)

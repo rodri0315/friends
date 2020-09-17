@@ -1,0 +1,100 @@
+.HiddenField {
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+.Field label {
+  color: $gray;
+  font-size: $h3;
+  // display: block;
+  text-transform: capitalize;
+  text-align: start;
+}
+
+.Field select {
+  background: $white;
+  border-radius: $unit / 2;
+  border: 2px solid #e3e6f4;
+  box-shadow: 0;
+  box-sizing: border-box;
+  font-size: $h4;
+  padding: $unit * 1;
+  display: block;
+  width: 100%;
+  transition: border-color 0.2s ease-in-out;
+  &:focus {
+    border-color: #abd3ea;
+    outline: none;
+  }
+}
+
+.width100 {
+  width: 100%;
+}
+
+.width90 {
+  width: 90%;
+}
+
+.width80 {
+  width: 80%;
+}
+
+.width50 {
+  width: 50%;
+}
+
+.Field {
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  textarea,
+  .StripeElement {
+    background: $white;
+    border: 2px solid $gray;
+    box-shadow: 0;
+    box-sizing: border-box;
+    font-size: $h4;
+    padding: $unit * 1.5;
+    width: 100%;
+    transition: border-color 0.2s ease-in-out;
+    &:focus {
+      // border-color: #abd3ea;
+      outline: none;
+    }
+    &::placeholder {
+      color: rgba($black, 0.5);
+    }
+  }
+}
+
+.Field {
+  .StripeElement--focus {
+    border-color: #abd3ea;
+    outline: none;
+  }
+}
+
+.Field {
+  div {
+    display: inline-flex;
+    box-sizing: border-box;
+    font-size: $h4;
+    padding: $unit * 1.5;
+    padding-left: 0%;
+    width: 80%;
+  }
+}
+
+.UpArrow::before {
+  content: "\25B2";
+  position: absolute;
+  top: 7px;
+  left: 30%;
+  font-size: 14px;
+  line-height: 14px;
+  color: #ddd;
+  text-shadow: none;
+  display: block;
+}

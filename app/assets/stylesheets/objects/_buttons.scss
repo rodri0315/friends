@@ -1,0 +1,31 @@
+.Button {
+  -webkit-appearance: none;
+  -webkit-user-select: none;
+
+  // border-radius: $unit/2;
+  border: 1px solid transparent;
+  font-size: 1.125rem;
+  font-weight: $semibold;
+  text-shadow: none;
+  line-height: 1.2;
+  display: inline-block;
+  padding: $unit * 1.55 $unit * 2.5;
+  position: relative;
+  cursor: pointer;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-decoration: none !important;
+  text-align: center;
+  align-items: flex-start;
+  text-align: center;
+  user-select: none;
+}
+
+.Button-sm {
+  padding: $unit/2 $unit * 1.5;
+}
+
+.Button-rnd {
+  padding: $unit * 0.75 $unit * 3.2;
+  border-radius: 25px;
+}

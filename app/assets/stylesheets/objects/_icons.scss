@@ -1,0 +1,25 @@
+.Icon {
+  display: inline-block;
+  line-height: 0;
+}
+
+.Icon svg {
+  width: $unit * 4;
+}
+
+.Icon-sm{
+  width: 24px;
+  height: 24px;
+}
+
+.Icon-sm svg {
+  width: $unit * 3;
+}
+
+.Icon-md svg {
+  width: $unit * 6;
+}
+
+.Icon-lg svg {
+  width: $unit * 12;
+}

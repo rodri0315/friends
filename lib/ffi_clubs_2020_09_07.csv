@@ -1,0 +1,344 @@
+GH1001,Cape Coast,Africa,N/A,Ghana,,Active
+BI1002,Bujumbura,Africa,N/A,Burundi,,Active
+EG1003,Cairo,Africa,N/A,Egypt,,Active
+GH1004,Volta Lake,Africa,N/A,Ghana,,Active
+KE1005,Kitui,Africa,N/A,Kenya,,Active
+KE1006,Nairobi,Africa,N/A,Kenya,,Active
+ZA1007,Cape of Good Hope,Africa,N/A,South Africa,,Active
+ZA1008,Cape Town,Africa,N/A,South Africa,,Active
+ZA1009,Mispah,Africa,N/A,South Africa,,Active
+TZ1010,Iringa,Africa,N/A,Tanzania,,Active
+UG1011,Kampala,Africa,N/A,Uganda,,Active
+GH1012,Trinity club of Legon,Africa,N/A,Ghana,,Active
+SL1013,Bo,Africa,N/A,Sierra Leone,,In Development
+MN1101,Mongolia,Asia,N/A,Mongolia,,Active
+LK1102,Trincomalee,Asia,N/A,N/A,,In Development
+LK1103,Negombo,Asia,N/A,,,In Development
+LK1104,Thissamaharama,Asia,N/A,,,In Development
+TH1105,Chiang Mai,Asia,N/A,Thailand,,Active
+TH1106,Phrae,Asia,N/A,Thailand,,Active
+LK1107,Ambalangoda,Asia,N/A,Sri Lanka,,Active
+TW1108,Greater Taipei,Asia,N/A,Taiwan,,Active
+TW1109,Hsinchu,Asia,N/A,Taiwan,,Active
+TW1110,Kaohsiung,Asia,N/A,Taiwan,,Active
+TW1111,Taichung,Asia,N/A,Taiwan,,Active
+TH1112,Nakhon Ratchasima,Asia,N/A,Thailand,,Active
+KR1113,Seoul,Asia,N/A,South Korea,,Active
+MY1114,Kuala Lumpur,Asia,N/A,Malaysia,,Active
+TW1115,Taipei,Asia,N/A,Taiwan,,Active
+TH1116,Bangkok,Asia,N/A,Thailand,,Active
+TH1117,Lamphun,Asia,N/A,Thailand,,Active
+ID1118,Greater Bogor,Asia,N/A,Indonesia,,Active
+PH1119,Naga (D),Asia,N/A,Philippines,,In Development
+MM1120,Myanmar (P),Asia,N/A,Myanmar,,Active
+CN1121,Liuzhou (P),Asia,N/A,China,,Active
+CN1122,Nanjing (P),Asia,N/A,China,,Active
+VN1123,Vietnam (P),Asia,N/A,Vietnam,,Active
+IN1124,Nashik Riverside,Asia,N/A,India,,Active
+ID1125,Bandung,Asia,N/A,Indonesia,,Active
+ID1126,Banjarmasin,Asia,N/A,Indonesia,,Active
+ID1127,Denpasar (Bali),Asia,N/A,Indonesia,,Active
+ID1128,Jakarta,Asia,N/A,Indonesia,,Active
+ID1129,Malang,Asia,N/A,Indonesia,,Active
+ID1130,Surabaya,Asia,N/A,Indonesia,,Active
+ID1131,Yogyakarta,Asia,N/A,Indonesia,,Active
+NP1132,Nepal,Asia,N/A,Nepal,,Active
+ID1133,Banda Aceh (D),Asia,N/A,Indonesia,,Active
+PH1134,Baguio (D),Asia,,,,In Development
+ID1135,Solo-Surakarta,Asia,N/A,Indonesia,,Active
+AU1201,Brisbane,Australia,North,Australia,,Active
+AU1202,Bundaberg,Australia,North,Australia,,Active
+AU1203,Cairns,Australia,North,Australia,,Active
+AU1204,Albany,Australia,South/West,Australia,,Active
+AU1205,Gold Coast,Australia,North,Australia,,Active
+AU1206,North Moreton,Australia,North,Australia,,Active
+AU1207,Sunshine Coast,Australia,North,Australia,,Active
+AU1208,Blue Mountains,Australia,Central,Australia,,Active
+AU1209,Central Coast,Australia,Central,Australia,,Active
+AU1210,Kempsey,Australia,Central,Australia,,Active
+AU1211,Newcastle,Australia,Central,Australia,,Active
+AU1212,Southern Sydney,Australia,Central,Australia,,Active
+AU1213,Sydney,Australia,Central,Australia,,Active
+AU1214,Tamworth,Australia,Central,Australia,,Active
+AU1215,Tweed Valley,Australia,North,Australia,,Active
+AU1216,Adelaide,Australia,South / West,Australia,,Active
+AU1217,Mount Barker,Australia,South/West,Australia,,Active
+AU1218,Murray Bridge,Australia,South/West,Australia,,Active
+AU1219,Mount Gambier,Australia,South/West,Australia,,Active
+AU1220,Salisbury and Northern Districts,Australia,South/West,Australia,,Active
+AU1221,Hobart,Australia,South/West,Australia,,Active
+AU1222,Casterton,Australia,South/West,Australia,,Active
+AU1223,Melbourne,Australia,South/West,Australia,,Active
+AU1224,Perth,Australia,South/West,Australia,,Active
+CA1301,Calgary Region,Canada,Western Canada,Canada,Alberta,Active
+CA1302,Edmonton and Area,Canada,Western Canada,Canada,Alberta,Active
+CA1303,Lethbridge,Canada,Western Canada,Canada,Alberta,Active
+CA1304,Medicine Hat,Canada,Western Canada,Canada,Alberta,Active
+CA1305,Metro Vancouver,Canada,Western Canada,Canada,British Columbia,Active
+CA1306,Penticton-Okanagan,Canada,Western Canada,Canada,British Columbia,Active
+CA1307,Victoria and Vancouver Island,Canada,Western Canada,Canada,British Columbia,Active
+CA1308,Brandon and Area,Canada,Western Canada,Canada,Manitoba,Active
+CA1309,Manitoba,Canada,Western Canada,Canada,Manitoba,Active
+CA1310,Winnipeg,Canada,Western Canada,Canada,Manitoba,Active
+CA1311,Saskatoon,Canada,Western Canada,Canada,Saskatchewan,Active
+CA1312,Canadian Capital Region,Canada,Eastern Canada,Canada,Ontario,Active
+CA1313,Greater Hamilton and Burlington,Canada,Eastern Canada,Canada,Ontario,Active
+CA1314,Haliburton Highlands,Canada,Eastern Canada,Canada,Ontario,Active
+CA1315,Niagara,Canada,Eastern Canada,Canada,Ontario,Active
+CA1316,North Bay,Canada,Eastern Canada,Canada,Ontario,Active
+CA1317,Ottawa,Canada,Eastern Canada,Canada,Ontario,Active
+CA1318,Stratford - St. Marys,Canada,Eastern Canada,Canada,Ontario,Active
+CA1319,Toronto,Canada,Eastern Canada,Canada,Ontario,Active
+CA1320,Montreal,Canada,Eastern Canada,Canada,Quebec,Active
+CA1321,Quebec Region,Canada,Eastern Canada,Canada,Quebec,Active
+CA1322,Sherbrooke,Canada,Eastern Canada,Canada,Quebec,Active
+CA1323,Lake Simcoe,Canada,Eastern Canada,Canada,Ontario,Active
+GP1401,Guadeloupe,Caribbean / Atlantic Islands,N/A,Guadeloupe,,Active
+IL1501,Central Israel,Eurasia,N/A,Israel,,Active
+RU1502,Tula,Eurasia,N/A,,,In Development
+RU1503,Krasnogorsk,Eurasia,,,,In Development
+RU1504,Krasnodar (D),Eurasia,,,,In Development
+TJ1505,Dushanbe,Eurasia,N/A,Tajikistan,,In Development
+TR1506,Ankara,Eurasia,N/A,Turkey,,In Development
+TR1507,Bursa,Eurasia,N/A,Turkey,,Active
+TR1508,Cankaya,Eurasia,N/A,Turkey,,Active
+TR1509,Greater Izmir,Eurasia,N/A,Turkey,,Active
+TR1510,Guzelbahce,Eurasia,N/A,Turkey,,Active
+TR1511,Karsiyaka Bay,Eurasia,N/A,Turkey,,Active
+TR1512,Seferihisar,Eurasia,N/A,Turkey,,Active
+TR1513,Urla of Greater Izmir,Eurasia,N/A,Turkey,,Active
+UA1514,Greater Kiev,Eurasia,N/A,Ukraine,,Active
+RU1515,Kirov Oblast,Eurasia,N/A,Russia,,Active
+RU1516,Korolev,Eurasia,N/A,Russia,,Active
+RU1517,Moscow,Eurasia,N/A,Russia,,Active
+RU1518,Veliky Novgorod,Eurasia,N/A,Russia,,Active
+RU1519,Rostov-on-Don,Eurasia,N/A,Russia,,Active
+RU1520,Saratov,Eurasia,N/A,Russia,,Active
+RU1521,St. Petersburg,Eurasia,N/A,Russia,,Active
+RU1522,Ulan-Ude,Eurasia,N/A,Russia,,Active
+AZ1523,Baku,Eurasia,N/A,Azerbaijan,,Active
+GE1524,Tbilisi,Eurasia,N/A,Georgia,,Active
+MD1525,Chisinau,Eurasia,N/A,Moldova,,Active
+AM1526,Yerevan,Eurasia,N/A,Yerevan,,In Development
+FR1601,Biarritz,Europe,N/A,France,,Active
+FR1602,Bordeaux,Europe,N/A,France,,Active
+FR1603,Toulouse,Europe,N/A,France,,Active
+GB1604,Bristol,Europe,N/A,United Kingdom,,Active
+GB1605,Cleveland County,Europe,N/A,United Kingdom,,Active
+GB1606,Cornwall,Europe,N/A,United Kingdom,,Active
+GB1607,County Durham,Europe,N/A,United Kingdom,,Active
+GB1608,Isle of Wight,Europe,N/A,United Kingdom,,Active
+GB1609,Leicestershire,Europe,N/A,United Kingdom,,Active
+GB1610,Manchester,Europe,N/A,United Kingdom,,Active
+GR1611,Athens,Europe,N/A,Greece,,Active
+MT1612,Malta,Europe,,,,In Development
+LV1613,Riga,Europe,N/A,Latvia,,Active
+DE1614,Zittau,Europe,,,,In Development
+BG1615,Sofia,Europe,N/A,Bulgaria,,In Development
+DE1616,Halle-Saale,Europe,N/A,Germany,,Active
+DE1617,Hamburg e.V.,Europe,N/A,Germany,,Active
+DE1618,Hannover,Europe,N/A,Germany,,Active
+DE1619,Kiel,Europe,N/A,Germany,,Active
+DE1620,Lübeck,Europe,N/A,Germany,,Active
+DE1621,Metropole Ruhr,Europe,N/A,Germany,,Active
+DE1622,Norderstedt,Europe,N/A,Germany,,Active
+DE1623,Rheinhessen,Europe,N/A,Germany,,Active
+DE1624,Schwerin,Europe,N/A,Germany,,Active
+DE1625,Varel,Europe,N/A,Germany,,Active
+DE1626,Vogtland,Europe,N/A,Germany,,Active
+AT1627,Krems,Europe,N/A,Austria,,Active
+AT1628,Vienna,Europe,N/A,Austria,,Active
+HU1629,Budapest,Europe,N/A,Hungary,,Active
+HU1630,Pecs,Europe,N/A,Hungary,,Active
+HU1631,Szekesfehervar,Europe,N/A,Hungary,,Active
+SE1632,Helsingborg,Europe,N/A,Sweden,,Active
+NL1633,Netherlands East,Europe,N/A,Netherlands,,Active
+CH1634,Solothurn,Europe,N/A,Switzerland,,Active
+BE1635,Belgian Coast,Europe,N/A,Belgium,,Active
+BE1636,Brussels,Europe,N/A,Belgium,,Active
+RO1637,Brasov,Europe,N/A,Romania,,Active
+RO1638,Bucharest,Europe,N/A,Romania,,Active
+RO1639,Sibiu,Europe,N/A,Romania,,Active
+BE1640,Limburg,Europe,N/A,Belgium,,Active
+DE1641,Bavaria Nürnberg-Erlangen e.V.,Europe,N/A,Germany,,Active
+DE1642,Berlin,Europe,N/A,Germany,,Active
+DE1643,Cottbus,Europe,N/A,Germany,,Active
+DE1644,Freiburg,Europe,N/A,Germany,,Active
+BE1645,Leuven,Europe,N/A,Belgium,,Active
+XK1646,Kosovo,Europe,,,,In Development
+CH1647,Lausanne,Europe,,,,In Development
+JP1701,Greater Sendai,Japan,Northern Japan,Japan,,Active
+JP1702,Sapporo,Japan,Northern Japan,Japan,,Active
+JP1703,Sendai Miyagi,Japan,Northern Japan,Japan,,Active
+JP1704,Koriyama,Japan,Northern Japan,Japan,,Active
+JP1705,Niigata,Japan,Northern Japan,Japan,,Active
+JP1706,Ota-Gunma,Japan,Northern Japan,Japan,,Active
+JP1707,Saitama,Japan,Metropolitan Japan,Japan,,Active
+JP1708,Tokyo,Japan,Metropolitan Japan,Japan,,Active
+JP1709,Western Tokyo,Japan,Metropolitan Japan,Japan,,Active
+JP1710,Musashino Meguro,Japan,Metropolitan Japan,Japan,,Active
+JP1711,Mt. Fuji Yamanashi,Japan,Metropolitan Japan,Japan,,Active
+JP1712,Shizuoka,Japan,Mid Japan,Japan,,Active
+JP1713,Aichi,Japan,Mid Japan,Japan,,Active
+JP1714,Gifu,Japan,Mid Japan,Japan,,Active
+JP1715,Mie,Japan,Mid Japan,Japan,,Active
+JP1716,Kyoto-Fukuchiyama,Japan,Mid Japan,Japan,,Active
+JP1717,Ehime,Japan,Western Japan,Japan,,Active
+JP1718,Fukuoka,Japan,Western Japan,Japan,,Active
+JP1719,Oita,Japan,Western Japan,Japan,,Active
+JP1720,Nara,Japan,Mid Japan,Japan,,Active
+JP1721,Osaka,Japan,Mid Japan,Japan,,Active
+JP1722,Nagasaki,Japan,Western Japan,Japan,,Active
+JP1723,Kumamoto,Japan,Western Japan,Japan,,Active
+JP1724,Tottori,Japan,Western Japan,Japan,,Active
+JP1725,Hiroshima,Japan,Western Japan,Japan,,Active
+JP1726,Setouchi-Hiroshima,Japan,Western Japan,Japan,,Active
+CO1801,Cali,Latin America,N/A,Colombia,,Active
+BR1802,Itanhaem,Latin America,N/A,Brazil,,Active
+BR1803,Nova Lima,Latin America,N/A,Brazil,,Active
+BR1804,Piracicaba,Latin America,N/A,Brazil,,Active
+BR1805,Recife,Latin America,N/A,Brazil,,Active
+BR1806,Ribeirao Preto,Latin America,N/A,Brazil,,Active
+BR1807,Rio de Janeiro,Latin America,N/A,Brazil,,Active
+BR1808,Salvador-Bahia,Latin America,N/A,Brazil,,Active
+BR1809,Santo Angelo,Latin America,N/A,Brazil,,Active
+BR1810,Sao Jose do Rio Preto,Latin America,N/A,Brazil,,Active
+BR1811,Sao Luis,Latin America,N/A,Brazil,,Active
+BR1812,Sao Paulo,Latin America,N/A,Brazil,,Active
+BR1813,Sao Paulo-ABC,Latin America,N/A,Brazil,,Active
+BR1814,Tere-Rio,Latin America,N/A,Brazil,,Active
+CL1815,La Serena,Latin America,N/A,Chile,,Active
+CL1816,Santiago,Latin America,N/A,Chile,,Active
+CO1817,Bogota,Latin America,N/A,Colombia,,Active
+CR1818,Alajuela,Latin America,N/A,Costa Rica,,Active
+CR1819,San Jose,Latin America,N/A,Costa Rica,,Active
+CR1820,Turrialba,Latin America,N/A,Costa Rica,,Active
+CR1821,West Alajuela,Latin America,N/A,Costa Rica,,Active
+MX1822,Coatepec,Latin America,N/A,Mexico,,Active
+MX1823,Filobobos,Latin America,N/A,Mexico,,Active
+MX1824,Mexico City,Latin America,N/A,Mexico,,Active
+MX1825,Mundo Maya de Tuxtla Gutierrez,Latin America,N/A,Mexico,,Active
+MX1826,Tuxtla-Gutierrez,Latin America,N/A,Mexico,,Active
+MX1827,Xalapa,Latin America,N/A,Mexico,,Active
+PE1828,Lima,Latin America,N/A,Peru,,Active
+PE1829,Nor Peru,Latin America,N/A,Peru,,Active
+PE1830,Tarapoto,Latin America,N/A,Peru,,Active
+PE1831,Trujillo,Latin America,N/A,Peru,,Active
+BR1832,Belem,Latin America,N/A,Brazil,,Active
+BR1833,Belo Horizonte,Latin America,N/A,Brazil,,Active
+BR1834,Blumenau,Latin America,N/A,Brazil,,Active
+BR1835,Brasilia,Latin America,N/A,Brazil,,Active
+BR1836,Campinas,Latin America,N/A,Brazil,,Active
+BR1837,Curitiba,Latin America,N/A,Brazil,,Active
+BR1838,Florianopolis,Latin America,N/A,Brazil,,Active
+BR1839,Fortaleza,Latin America,N/A,Brazil,,Active
+BR1840,Marília,Latin America,N/A,Brazil,,In Development
+IR1901,Tehran,Middle East,N/A,,,In Development
+WW-2001,Global,N/A,N/A,N/A,,Active
+WW-2002,Global Club,,,,,Active
+NZ2101,Wairarapa,New Zealand,Lower North Island,New Zealand,,Active
+NZ2102,Wanganui,New Zealand,Lower North Island,New Zealand,,Active
+NZ2103,Wellington,New Zealand,Lower North Island,New Zealand,,Active
+NZ2104,Otago,New Zealand,South Island,New Zealand,,Active
+NZ2105,Christchurch,New Zealand,South Island,New Zealand,,Active
+NZ2106,Marlborough,New Zealand,South Island,New Zealand,,Active
+NZ2107,Nelson,New Zealand,South Island,New Zealand,,Active
+NZ2108,Southland,New Zealand,South Island,New Zealand,,Active
+NZ2109,Hamilton and Waikato,New Zealand,Upper North Island,New Zealand,,Active
+NZ2110,Taupo,New Zealand,Upper North Island,New Zealand,,Active
+NZ2111,Thames Coromandel,New Zealand,Upper North Island,New Zealand,,Active
+NZ2112,Tauranga Western Bay of Plenty,New Zealand,Upper North Island,New Zealand,,Active
+NZ2113,Whangarei,New Zealand,Upper North Island,New Zealand,,Active
+NZ2114,Horowhenua,New Zealand,Lower North Island,New Zealand,,Active
+NZ2115,Kapiti Coast,New Zealand,Lower North Island,New Zealand,,Active
+NZ2116,Manawatu,New Zealand,Lower North Island,New Zealand,,Active
+NZ2117,New Plymouth,New Zealand,Lower North Island,New Zealand,,Active
+NZ2118,South Taranaki,New Zealand,Lower North Island,New Zealand,,Active
+NC2201,Noumea,Pacific Islands,N/A,New Caledonia,,Active
+US2301,Ketchikan,United States of America,Pacific Northwest-Northern Rockies,United States of America,Alaska,Active
+US2302,Houston,United States of America,South / Southwest,United States of America,Texas,Active
+US2303,San Antonio,United States of America,South / Southwest,United States of America,Texas,Active
+US2304,Flathead Valley,United States of America,Pacific Northwest-Northern Rockies,United States of America,Montana,Active
+US2305,Missoula - Western Montana,United States of America,Pacific Northwest-Northern Rockies,United States of America,Montana,Active
+US2306,Oregon's Mid-Willamette Valley,United States of America,Pacific Northwest-Northern Rockies,United States of America,Oregon,Active
+US2307,Southern Oregon,United States of America,Pacific Northwest-Northern Rockies,United States of America,Oregon,Active
+US2308,Columbia Cascade,United States of America,Pacific Northwest-Northern Rockies,United States of America,Oregon,Active
+US2309,Eastern Washington-Northern Idaho,United States of America,Pacific Northwest-Northern Rockies,United States of America,Washington,Active
+US2310,Lower Columbia,United States of America,Pacific Northwest-Northern Rockies,United States of America,Washington,Active
+US2311,Greater Olympia,United States of America,Pacific Northwest-Northern Rockies,United States of America,Washington,Active
+US2312,Seattle- Tacoma,United States of America,Pacific Northwest-Northern Rockies,United States of America,Washington,Active
+US2313,Central Arizona,United States of America,West Coast,United States of America,Arizona,Active
+US2314,Tucson-Southern Arizona,United States of America,West Coast,United States of America,Arizona,Active
+US2315,Kern County,United States of America,West Coast,United States of America,California,Active
+US2316,Los Angeles,United States of America,West Coast,United States of America,California,Active
+US2317,Napa-Sonoma,United States of America,West Coast,United States of America,California,Active
+US2318,Sacramento,United States of America,West Coast,United States of America,California,Active
+US2319,San Diego County,United States of America,West Coast,United States of America,California,Active
+US2320,San Francisco Bay Area,United States of America,West Coast,United States of America,California,Active
+US2321,Santa Barbara,United States of America,West Coast,United States of America,California,Active
+US2322,Reno-Tahoe,United States of America,West Coast,United States of America,Nevada,Active
+US2323,Honolulu,United States of America,West Coast,United States of America,Hawaii,Active
+US2324,Greater Denver,United States of America,Rocky Mountains,United States of America,Colorado,Active
+US2325,Northern Colorado,United States of America,Rocky Mountains,United States of America,Colorado,Active
+US2326,Pikes Peak Region,United States of America,Rocky Mountains,United States of America,Colorado,Active
+US2327,Western Colorado,United States of America,Rocky Mountains,United States of America,Colorado,Active
+US2328,Cheyenne,United States of America,Rocky Mountains,United States of America,Wyoming,Active
+US2329,Utah,United States of America,Rocky Mountains,United States of America,Utah,Active
+US2330,East Central Florida,United States of America,Florida,United States of America,Florida,Active
+US2331,Florida Suncoast,United States of America,Florida,United States of America,Florida,Active
+US2332,Greater Orlando,United States of America,Florida,United States of America,Florida,Active
+US2333,Sarasota,United States of America,Florida,United States of America,Florida,Active
+US2334,Southwest Florida,United States of America,Florida,United States of America,Florida,Active
+US2335,The Villages,United States of America,Florida,United States of America,Florida,Active
+US2336,Birmingham,United States of America,Southeast,United States of America,Alabama,Active
+US2337,Huntsville Area,United States of America,Southeast,United States of America,Alabama,Active
+US2338,Central North Carolina,United States of America,Southeast,United States of America,North Carolina,Active
+US2339,Charlotte,United States of America,Southeast,United States of America,North Carolina,Active
+US2340,Colonial Carolina,United States of America,Southeast,United States of America,North Carolina,Active
+US2341,Morganton,United States of America,Southeast,United States of America,North Carolina,Active
+US2342,Raleigh,United States of America,Southeast,United States of America,North Carolina,Active
+US2343,Shelby,United States of America,Southeast,United States of America,North Carolina,Active
+US2344,Western North Carolina,United States of America,Southeast,United States of America,North Carolina,Active
+US2345,Big Canoe - North Georgia,United States of America,Southeast,United States of America,Georgia,Active
+US2346,Greater Atlanta,United States of America,Southeast,United States of America,Georgia,Active
+US2347,Lake Hartwell - GA,United States of America,Southeast,United States of America,Georgia,Active
+US2348,Knoxville,United States of America,Southeast,United States of America,Tennessee,Active
+US2349,Memphis,United States of America,Southeast,United States of America,Tennessee,Active
+US2350,Chicago,United States of America,Mid-West,United States of America,Illinois,Active
+US2351,Northern Illinois,United States of America,Mid-West,United States of America,Illinois,Active
+US2352,Cedar Rapids-Iowa City,United States of America,Mid-West,United States of America,Iowa,Active
+US2353,OLLI at FSU - Tallahassee,United States of America,Florida,United States of America,Florida,Active
+US2354,Central Iowa,United States of America,Mid-West,United States of America,Iowa,Active
+US2355,Greater Des Moines,United States of America,Mid-West,United States of America,Iowa,Active
+US2356,Quad Cities,United States of America,Mid-West,United States of America,Iowa,Active
+US2357,Missouri-St. Louis,United States of America,Mid-West,United States of America,Missouri,Active
+US2358,Greater Omaha,United States of America,Mid-West,United States of America,Nebraska,Active
+US2359,Lincoln,United States of America,Mid-West,United States of America,Nebraska,Active
+US2360,Minnesota-Twin Cities,United States of America,Mid-West,United States of America,Minnesota,Active
+US2361,Greater Milwaukee,United States of America,Mid-West,United States of America,Wisconsin,Active
+US2362,Wisconsin-Madison,United States of America,Mid-West,United States of America,Wisconsin,Active
+US2363,Western Kentucky,United States of America,Great Lakes,United States of America,Kentucky,Active
+US2364,Greater Detroit,United States of America,Great Lakes,United States of America,Michigan,Active
+US2365,Greater Lansing,United States of America,Great Lakes,United States of America,Michigan,Active
+US2366,Western Michigan,United States of America,Great Lakes,United States of America,Michigan,Active
+US2367,Dayton,United States of America,Great Lakes,United States of America,Ohio,Active
+US2368,Greater Cincinnati,United States of America,Great Lakes,United States of America,Ohio,Active
+US2369,Northeast Ohio,United States of America,Great Lakes,United States of America,Ohio,Active
+US2370,New Hampshire Seacoast,United States of America,Northeast,United States of America,New Hampshire,Active
+US2371,Southern New Jersey,United States of America,Northeast,United States of America,New Jersey,Active
+US2372,Connecticut,United States of America,Northeast,United States of America,Connecticut,Active
+US2373,National Capital Area,United States of America,Northeast,United States of America,District of Columbia,Active
+US2374,Long Island,United States of America,Northeast,United States of America,New York,Active
+US2375,Greater Harrisburg,United States of America,Northeast,United States of America,Pennsylvania,Active
+US2376,Central Virginia,United States of America,Northeast,United States of America,Virginia,Active
+US2377,Richmond,United States of America,Northeast,United States of America,Virginia,Active
+US2378,Charleston West Virginia,United States of America,Northeast,United States of America,West Virginia,Active
+US2379,Kansas,United States of America,South / Southwest,United States of America,Kansas,Active
+US2380,Baton Rouge,United States of America,South / Southwest,United States of America,Louisiana,Active
+US2381,Oklahoma,United States of America,South / Southwest,United States of America,Oklahoma,Active
+US2382,New Mexico,United States of America,Rocky Mountains,United States of America,New Mexico,Active
+US2383,Austin,United States of America,South / Southwest,United States of America,Texas,Active
+US2384,Dallas,United States of America,South / Southwest,United States of America,Texas,Active
+US2385,Fort Worth,United States of America,South / Southwest,United States of America,Texas,Active
+US2386,Greater Boston,United States of America,Northeast,United States of America,Massachusetts,Active
+CC-2401,Cruise Club1,Cruise,,,,Active

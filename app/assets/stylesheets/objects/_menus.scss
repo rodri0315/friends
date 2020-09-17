@@ -1,0 +1,20 @@
+.Menu {
+  background: $white;
+  border-radius: $unit;
+  box-shadow: 0 0 $unit * 2 rgba($black, 0.2);
+  padding-bottom: $unit;
+  padding-top: $unit;
+  width: 200px;
+  display: none;
+}
+
+.Menu a {
+  color: $black;
+  font-size: $h5;
+  padding: $unit $unit * 2;
+  text-decoration: none;
+}
+
+.Menu.is-showing {
+  display: inline-block;
+}

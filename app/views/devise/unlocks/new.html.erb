@@ -1,0 +1,27 @@
+<div class="flex input-container">
+  <div class="flex-grow bg-people"></div>
+  <div class="flex-grow Login flex flex-column align-center">
+    <h1 class="SignIn"><%= t('.resend_unlock_instructions') %></h1>
+
+    <%= form_for(resource, as: resource_name, url: unlock_path(resource_name), html: { method: :post }) do |f| %>
+      <%= render "devise/shared/error_messages", resource: resource %>
+
+    <div class="Field">
+      <div>
+        <%= f.label :email %>
+      </div>
+      <%= f.email_field :email, autofocus: true, autocomplete: "email" %>
+    </div>
+
+    <div class="actions">
+      <%= f.submit t('.resend_unlock_instructions'), class: 'width100 mt5 Button bc-green white uppercase' %>
+    </div>
+    <% end %>
+    <hr class="width80 mt5 hr-line">
+
+    <%= render "devise/shared/links" %>
+  </div>
+</div>
+
+
+

@@ -1,0 +1,7 @@
+.Flash {
+  left: 50%;
+  position: fixed;
+  top: $unit * 2;
+  transform: translateX(-50%);
+  width: $unit * 40;
+}

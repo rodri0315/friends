@@ -1,0 +1,36 @@
+<div class="flex input-container">
+  <div class="flex-grow bg-people"></div>
+  <div class="flex-grow Login flex flex-column align-center">
+    <h1 class="SignIn"><%= t('.change_your_password') %></h1>
+    <%= form_for(resource, as: resource_name, url: password_path(resource_name), html: { method: :put }) do |f| %>
+      <%= render "devise/shared/error_messages", resource: resource %>
+      <%= f.hidden_field :reset_password_token %>
+
+
+    <div class="Field">
+      <div>
+        <%= f.label :password, t('.new_password') %>
+      <% if @minimum_password_length %>
+        <em>&nbsp;<%= t('devise.shared.minimum_password_length', count: @minimum_password_length) %></em>
+      </div>
+      <% end %>
+
+      <%= f.password_field :password, autofocus: true, autocomplete: "new-password" %>
+    </div>
+
+    <div class="Field mt2">
+      <div>
+        <%= f.label :password_confirmation, t('.confirm_new_password') %>
+      </div>
+      <%= f.password_field :password_confirmation, autocomplete: "new-password" %>
+    </div>
+
+    <div class="actions">
+      <%= f.submit t('.change_my_password'), class: 'width100 mt5 Button bc-green white uppercase' %>
+    </div>
+    <% end %>
+    <hr class="width80 mt5 hr-line">
+
+    <%= render "devise/shared/links" %>
+  </div>
+</div>

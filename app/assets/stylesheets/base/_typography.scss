@@ -1,0 +1,34 @@
+h1,h2,h3,h4,h5,h6{
+  font-weight: $bold;
+  -webkit-font-smoothing: initial;
+	line-height: 1.25;
+  margin-top: 0;
+}
+
+$headings: (
+  h1: $h1,
+  h2: $h2,
+  h3: $h3,
+  h4: $h4,
+  h5: $h5,
+  h6: $h6
+);
+
+@each $heading, $value in $headings {
+  #{$heading}, .#{$heading}{ font-size: $value; }
+}
+
+$weight: (
+  thin:        $thin,
+  light:       $light,
+  normal:      $normal,
+  semibold:    $semibold,
+  bold:        $bold,
+  ultrabold:   $ultrabold
+);
+
+@each $weight, $value in $weight{
+  .#{$weight}{
+    font-weight: $value;
+  }
+}

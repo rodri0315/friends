@@ -1,0 +1,50 @@
+.bt {
+  border-top-width: 1px;
+  border-top-style: solid;
+}
+
+.br {
+  border-right-width: 1px;
+  border-right-style: solid;
+}
+
+.bb {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+
+.bl {
+  border-left-width: 1px;
+  border-left-style: solid;
+}
+
+.b  {
+  border-width: 1px;
+  border-style: solid;
+}
+
+@each $color, $value in $colors{
+  .b-#{''+$color}{
+    border-color: $value;
+  }
+}
+
+.b-none {
+  border: none;
+}
+
+@for $i from 1 through $max-step {
+  .b#{$i} { border-width: #{$i}px; }
+  .bt#{$i} { border-top-width: #{$i}px; }
+  .br#{$i} { border-right-width:#{$i}px; }
+  .bb#{$i} { border-bottom-width: #{$i}px; }
+  .bl#{$i} { border-left-width: #{$i}px; }
+}
+
+.r-sm {
+  border-radius: $unit/2;
+}
+
+.circle {
+  border-radius: 100%;
+}

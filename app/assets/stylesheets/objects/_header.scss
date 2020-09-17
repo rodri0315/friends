@@ -1,0 +1,41 @@
+.Logo {
+  color: $blue;
+  font-size: $h2;
+  font-weight: $ultrabold;
+  text-decoration: none;
+  width: $unit * 20;
+  line-height: 0;
+  display: inline-block;
+}
+
+.HeaderLink.active {
+  color: $blue;
+}
+
+.Profile {
+  background: $white;
+  height: 48px;
+  width: 48px;
+  border: 2px solid $purple;
+  position: relative;
+  text-align: center;
+  border-radius: 100%;
+  cursor: pointer;
+  user-select: none;
+  &.is-active {
+    background: $blue;
+    border-color: $black;
+    color: $white;
+  }
+}
+
+.ProfileMenu {
+  margin-top: $unit;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  text-align: left;
+  .is-active & {
+    display: block;
+  }
+}

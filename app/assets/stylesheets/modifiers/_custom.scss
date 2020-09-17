@@ -1,0 +1,147 @@
+// Header
+.Header {
+  .dropdown-container {
+    display: flex;
+  }
+  h4 {
+    align-self: center;
+  }
+}
+
+
+// Body
+.bg-people {
+  background-image: image-url('people.png');
+  background-position: top center;
+  background-size: cover;
+  // min-height: 940px;
+}
+
+.Header {
+  position: absolute;
+  width: 100%;
+}
+
+.hr-line {
+  border: 1px solid $gray;
+}
+
+// Login
+.SignIn {
+  margin-top: 5em;
+  margin-bottom: 5em;
+  color: $blue;
+}
+
+.Link {
+  text-decoration: none;
+  color: $gray;
+}
+
+.Login {
+  
+}
+
+.SignUp {
+  margin-bottom: 35%;
+}
+
+.body-height {
+  height: 100vh;
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 2) {
+  .bg-people {
+    min-height: 110px;
+    background-position: center center;
+  }
+  .SignIn {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    font-size: 3rem;
+  }
+  .input-container {
+    flex-direction: column;
+    // width: fit-content;
+    display: flex;
+  }
+  .Button {
+    padding: $unit * 2.55 $unit * 2.5;
+    width: 100%;
+  }
+  .body-height {
+    height: inherit;
+  }
+  // .Field {
+  //   input[type="text"],
+  //   input[type="email"],
+  //   input[type="password"],
+  //   textarea {
+  //     width: 100%;
+  //   }
+  // }
+  // footer {
+  // }
+}
+/* Dropdown Button */
+.dropbtn {
+  border: 1px solid black;
+  color: black;
+  padding: 7px 12px;
+  font-size: 16px;
+  background-color: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  align-self: center;
+
+  p {
+    display: inline-block;
+  }
+
+  svg {
+    vertical-align: middle;
+    width: 20px;
+  }
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: lightgray;}
+
+// Footer
+footer {
+  min-height: 268px;
+  img {
+    width: fit-content;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 10%;
+  }
+}

@@ -1,0 +1,66 @@
+<header class="p2 Header">
+  <div class="flex justify-space-between">
+    <div>
+      <%= link_to root_path, class: "Logo" do %>
+      <%= render "layouts/logo" %>
+      <% end %>
+    </div>
+    <div class="dropdown-container">
+      <h4 class="mr2">Site Language:</h4>
+      <div class="dropdown">
+        <button class="dropbtn">
+          <% if params[:locale] == "en"%>
+          <%= image_tag "en.png" %>
+          <p>English</p>
+          <%else%>
+          <%= image_tag "es.png" %>
+          <p>Español</p>
+          <%end%>
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 330 330" style="enable-background:new 0 0 330 330;" xml:space="preserve">
+            <path id="XMLID_102_" d="M325.607,79.393c-5.857-5.857-15.355-5.858-21.213,0.001l-139.39,139.393L25.607,79.393
+	c-5.857-5.857-15.355-5.858-21.213,0.001c-5.858,5.858-5.858,15.355,0,21.213l150.004,150c2.813,2.813,6.628,4.393,10.606,4.393
+	s7.794-1.581,10.606-4.394l149.996-150C331.465,94.749,331.465,85.251,325.607,79.393z" />
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+            <g>
+            </g>
+          </svg>
+        </button>
+        <div class="dropdown-content">
+          <% Language.all.each do |lan|%>
+          <div class="flex justify-center align-center">
+            <%= image_tag "#{lan.locale_code}.png" %>
+            <%= link_to(lan.display_name, root_path(params: {locale: lan.locale_code})) %>
+          </div>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
